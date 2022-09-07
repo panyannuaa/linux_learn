@@ -1,0 +1,14 @@
+total 44
+-rw-rw-r-- 1 yapan yapan   24 Aug  5 22:36 11.txt
+-rw-rw-r-- 1 yapan yapan  366 Aug  5 22:03 12.txt
+-rw-rw-r-- 1 yapan yapan    0 Aug  7 19:37 1.txt
+-rw-rw-r-- 1 yapan yapan   18 Aug  5 22:33 22.txt
+-rw-rw-r-- 1 yapan yapan   81 Aug  6 02:01 for_loop.sh
+drwxrwxr-x 2 yapan yapan 4096 Aug  6 00:26 one
+-rw-rw-r-- 1 yapan yapan  266 Aug  5 04:29 signal_test.py
+-rw-rw-r-- 1 yapan yapan   49 Aug  5 04:30 sleep.py
+drwxrwxr-x 2 yapan yapan 4096 Aug  5 19:29 test
+-rwxr-xr-x 1 yapan yapan   82 Aug  6 01:33 test.sh
+drwxrwxr-x 2 yapan yapan 4096 Aug  6 00:26 three
+drwxrwxr-x 2 yapan yapan 4096 Aug  6 00:26 two
+error
